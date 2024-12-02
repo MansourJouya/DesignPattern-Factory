@@ -36,13 +36,13 @@ Each language has its own directory containing the specific implementation of th
 To get started with the project, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/MansourJouya/DesignPatterns-Factory.git
+git clone https://github.com/MansourJouya/DesignPattern-Factory.git
 ```
 
 Navigate into the project directory:
 
 ```bash
-cd DesignPatterns-Factory
+cd DesignPattern-Factory
 ```
 
 You can then explore the implementation in your preferred programming language.
@@ -73,7 +73,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 ## Contact
 
